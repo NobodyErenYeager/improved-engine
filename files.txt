@@ -1,0 +1,39 @@
+01 - Introduction Setup
+	(1280, 720) | 01 - Welcome To The Course.mp4
+	(1280, 720) | 02 - Download Software.mp4
+	(1280, 720) | 03 - Community Support.mp4
+	(1280, 720) | 04 - Getting Started with Libresprite.mp4
+	(1280, 720) | 05 - Lighting Colors.mp4
+	(1280, 720) | 06 - Exporting Sprite Sheets.mp4
+	(1280, 720) | 07 - Importing Sprite Sheets.mp4
+	(1280, 720) | 08 - Topdown vs Platformer Sprites.mp4
+	(1280, 720) | 09 - Section Wrapup Introduction Setup.mp4
+02 - Creating Tilesets Assets
+	(1280, 720) | 01 - Section Intro Creating Tilesets Assets.mp4
+	(1280, 720) | 02 - Whats A Tileset.mp4
+	(1280, 720) | 03 - Topdown Grass Tilesets.mp4
+	(1280, 720) | 04 - Topdown Nature Assets.mp4
+	(1280, 720) | 05 - Platformer Grass Tilesets.mp4
+	(1280, 720) | 06 - Platformer Nature Assets.mp4
+	(1280, 720) | 07 - Create A Dungeon Tileset.mp4
+	(1280, 720) | 08 - Design Assets For Dungeons.mp4
+	(1280, 720) | 09 - Section Wrapup Creating Tilesets Assets.mp4
+03 - Designing Backgrounds
+	(1280, 720) | 01 - Section Intro Designing Backgrounds.mp4
+	(1280, 720) | 02 - Create A Sky Background.mp4
+	(1280, 720) | 03 - Create A Castle Background.mp4
+	(1280, 720) | 04 - Creating Loopable Backgrounds.mp4
+	(1280, 720) | 05 - Create A Landscape Backgrounds.mp4
+	(1280, 720) | 06 - Create A Landscape Foregrounds.mp4
+	(1280, 720) | 07 - Polish Your Landscape.mp4
+	(1280, 720) | 08 - Section Wrapup Designing Backgrounds.mp4
+04 - Polishing Environments
+	(1280, 720) | 01 - Section Intro Polishing Environments.mp4
+	(1280, 720) | 02 - Exporting Animations.mp4
+	(1280, 720) | 03 - Animating Cutscenes.mp4
+	(1280, 720) | 04 - Animating Objects.mp4
+	(1280, 720) | 05 - Building Game Scenes Backgrounds.mp4
+	(1280, 720) | 06 - Building Game Scenes Foregrounds.mp4
+	(1280, 720) | 07 - Building Game Scenes Decorations.mp4
+	(1280, 720) | 08 - Building Game Scenes Night Cycle.mp4
+	(1280, 720) | 09 - Section Wrapup Polishing Environments.mp4
